@@ -1,0 +1,12 @@
+[submodule "root"]
+	path = root
+	url = /Users/michael/snappi.dev/singleSpaPlayground/root
+[submodule "navbar"]
+	path = navbar
+	url = /Users/michael/snappi.dev/singleSpaPlayground/navbar
+[submodule "shared"]
+	path = shared
+	url = /Users/michael/snappi.dev/singleSpaPlayground/shared
+[submodule "marais"]
+	path = marais
+	url = /Users/michael/snappi.dev/singleSpaPlayground/marais
